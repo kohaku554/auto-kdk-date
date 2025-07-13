@@ -1,3 +1,0 @@
-
-config SHIELD_ORTHO
-    def_bool $(shields_list_contains,ortho)
